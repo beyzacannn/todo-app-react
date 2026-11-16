@@ -48,9 +48,8 @@
 
 # ```
 
-# git clone <repo-adresi>
-
-# cd <proje-klasörü>
+git clone https://github.com/beyzacannn/todo-app-react.git
+cd todo-app-react
 
 # ```
 
@@ -112,5 +111,5 @@
 
 # 
 
-# <netlify-adresi>
+https://incomparable-brioche-86e6fc.netlify.app/
 
